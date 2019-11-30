@@ -1,2 +1,2 @@
-# CombinacionBinaria
+# SISTEMAS MICROPROCESADOS
 tarea1
